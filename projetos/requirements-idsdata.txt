@@ -1,0 +1,19 @@
+5. Formata e escreve os dados no arquivo
+
+---
+
+## 🛠️ Pré-requisitos
+
+- Python 3.x
+- Biblioteca `cx_Oracle`
+- Ter acesso à base Oracle com a tabela `discador_owner.dialercalls`
+
+---
+
+## 📌 Exemplo de uso
+
+```bash
+Digite aqui o numero do IDSCRIPT: 4400
+Digite o dia: 26
+Digite o mês: 09
+Digite o ano: 2023
