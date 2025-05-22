@@ -30,4 +30,15 @@ Este repositório serve como **portfólio técnico**, demonstrando habilidades c
 ## 📌 Observações
 
 - Os scripts são **funcionais**, mas foram desenvolvidos com fins educacionais.
-- Algumas credenciais, ca
+- Algumas credenciais, caminhos ou nomes de tabelas estão ofuscados ou fictícios para proteger informações sensíveis.
+- O uso dos scripts em ambiente de produção deve passar por validação técnica e ajustes conforme necessidade.
+
+---
+
+## 📦 Requisitos Gerais
+
+- Python 3.x
+- Módulo `cx_Oracle`
+- Acesso a um banco de dados Oracle (para execução completa)
+
+---
